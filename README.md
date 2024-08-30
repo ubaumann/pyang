@@ -182,6 +182,3 @@ man pyang
 
 * **schema**
   Contains RELAX NG schemas and pattern libraries.
-
-
-
